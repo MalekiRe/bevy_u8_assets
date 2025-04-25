@@ -2,6 +2,10 @@
 name = "bevy_u8_assets"
 version = "0.2.0"
 edition = "2024"
+description = "Allows one to write u8 bytes of an asset with a fake file path to bevy"
+authors = ["Malek<Discord:MalekiRe,Email:pocmalek@gmail.com>"]
+license = "MIT-0 OR Apache-2.0"
+repository = "https://github.com/MalekiRe/bevy_u8_assets"
 
 [dependencies]
 bevy = "0.16.0"
