@@ -1,0 +1,11 @@
+[package]
+name = "bevy_u8_assets"
+version = "0.2.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.16.0"
+flume = "0.11.1"
+futures-io = "0.3.31"
+thiserror = "2.0.12"
+futures-locks = "0.7.1"
